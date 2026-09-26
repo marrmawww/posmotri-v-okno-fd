@@ -1,1 +1,1 @@
-сайт "Посмотри в окно"
+https://github.com/marmawww/posmotri-v-okno-fd
