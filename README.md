@@ -1,1 +1,1 @@
-https://github.com/marmawww/posmotri-v-okno-fd
+https://github.com/marrmawww/posmotri-v-okno-fd.git
